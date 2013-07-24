@@ -26,6 +26,7 @@ Download LeapSDK from https://www.leapmotion.com/developers, then copy files int
     $ cd LeapSDK/lib
     $ cp Leap.py LeapPython.so libLeap.dylib {your folder}
 
+
 ### Execution ###
 
 1. Attach your Leap Motion with USB connector.
@@ -35,7 +36,14 @@ Download LeapSDK from https://www.leapmotion.com/developers, then copy files int
    $ cd {your folder}
    $ ./leaptheremin.py
 
+
+### Demonstration ###
+
+* YouTube: http://youtu.be/Reoc-c9Ulto
+
+
 ### Attention ###
 
 * LeapSDK fails on brew-installed-python, so you should use preinstalled python  of Mac OSX.
 * tested on Mac OSX(10.8.2) only
+
