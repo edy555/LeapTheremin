@@ -29,12 +29,16 @@ Download LeapSDK from https://www.leapmotion.com/developers, then copy files int
 
 ### Execution ###
 
-1. Attach your Leap Motion with USB connector.
+1. Connect device
 
-2. In Terminal, run as follows.
+Attach your Leap Motion with USB connector.
 
-   $ cd {your folder}
-   $ ./leaptheremin.py
+2. Launch
+
+In Terminal, enter commands as follows.
+
+    $ cd {your folder}
+    $ ./leaptheremin.py
 
 
 ### Demonstration ###
